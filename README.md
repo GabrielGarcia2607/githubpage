@@ -3,7 +3,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Mi Página Personal</title>
+    <title>Mis Hobbies</title>
 </head>
 <body>
     <h1> García Pérez Alberto Gabriel</h1>
